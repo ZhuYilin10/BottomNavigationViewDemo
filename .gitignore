@@ -40,6 +40,7 @@ captures/
 *.jks
 gradle.properties
 gradle/
+app/.gitignore
 gradlew
 gradlew.bat
 settings.gradle
